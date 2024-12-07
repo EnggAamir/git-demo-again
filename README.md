@@ -20,7 +20,19 @@ eg: git branch -M main
 eg: git remote add origin https://github.com/aiwithqasim/git-demo-again.git
 - step10: to push file from local to github repo (in lfight from khi to isl)
 eg: git push -u origin main
-second time
+
+## second time
 git add .
 git commit -m "any message"
 git push
+
+## Branching
+ - step1 : to check on which branch you're
+    e.g: 'git branch'
+- step2 : to move and create new branch
+    e.g: 'git checkout -b <'branch name> (task/development-branch)
+- if branch already exist 
+    e.g: git checkout <'branch name'>
+- git add .
+- git commit -m "any message"
+- git push -u origin <'branch name'>

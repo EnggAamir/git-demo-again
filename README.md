@@ -22,9 +22,9 @@ eg: git remote add origin https://github.com/aiwithqasim/git-demo-again.git
 eg: git push -u origin main
 
 ## second time
-git add .
-git commit -m "any message"
-git push
+- git add .
+- git commit -m "any message"
+- git push
 
 ## Branching
  - step1 : to check on which branch you're
